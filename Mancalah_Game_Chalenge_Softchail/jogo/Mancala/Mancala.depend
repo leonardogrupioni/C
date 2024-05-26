@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1665150664 source:c:\users\audiovisual\desktop\jogo\mancala\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

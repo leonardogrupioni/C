@@ -1,0 +1,53 @@
+Menu
+
+==============================
+ (1) Jogar
+         (1) Dois jogadores (2) Contra a IA
+ (2) Retomar Partida 
+ (3) Salvar Partida
+ (4) Carregar Partida Salva
+ (5) Regras
+ (0) Sair
+==============================
+Qual opção você deseja: _
+==============================
+
+Opção escolhida: Jogar (Dois jogadores)
+….
+Peças distribuídas
+
+O jogador 1 possui a peça de maior destaque
+
+##############################
+Mesa:  4 | 6  6 | 6 
+############################## 
+
+Vez do jogador 2:
+(1) jogar (aparece como a opção a baixo)
+Mao Jogador 2:
+ 5 | 5   3 | 5   4 | 6   0 | 1   0 | 2   4 | 4    3 | 4
+//  (a)     (b)     (c)     (d)     (e)     (f)      (g) 
+(2) comprar peca -----> (3) passar a vezes //condicionado a acabar as pecas 
+(4) Sair(interromper o jogo)
+
+
+
+ 5 | 5   3 | 5   4 | 6   0 | 1   0 | 2   4 | 4    4 | 3  5   5
+  (a)     (b)     (c)     (d)     (e)     (f)      (g)    (h)
+
+
+
+
+
+qal peca deseja jogar c
+
+
+
+
+
+
+
+
+Mao Jogador 1:
+ 5 | 5   3 | 5   4 | 6   0 | 1   0 | 2   4 | 4
+  (a)      (b)      (c)     (d)      (e)     (f)

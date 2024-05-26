@@ -1,0 +1,50 @@
+Detalhamento dos Requisitos Funcionais do Jogo e Etapas do Projeto
+
+Os seguintes requisitos deverão ser implementados durante o desenvolvimento do projeto:
+
+Etapa 01 –Tipo agregado (homogêneo e heterogêneo) e I/O (vídeo e teclado) em C
+◆REQ01: O sistema deverá montar as peças do dominó com a numeração correta do jogo
+◆REQ02: O sistema deve permitir ao usuário embaralhar as peças do domino
+◆REQ03: O sistema deverá permitir ao usuário organizar as peças (sequencia correta) 
+para jogar novamente.
+◆REQ04: O sistema deverá permitir ao usuário mostrar todas as peças do dominó na tela 
+(modo texto ou gráfico)
+
+Etapa 02 –Padrão MVC (Model-View-Controller)
+◆REQNF05: O sistema deverá ter diferentes formas de apresentação do jogo (múltiplas interfaces)
+◆REQNF06: O sistema deverá ser fácil de manter e as alterações realizadas não devem 
+impactar nos demais módulos do sistema
+
+Etapa 03 –Funções e Procedimentos (Lógica do Jogo e Interação com o Usuário)
+
+◆REQ07: O sistema deve permitir ao usuário determinar o número jogadores. No mínimo 1
+e máximo 2 jogadores. //feito
+◆REQ08: O sistema deve criar uma mesa após a distribuição das peças entre os jogadores //criar demonstracao mesa
+◆REQ09: O sistema deverá permitir ao usuário distribuir as peças do dominó entre os jogadores. //feito
+◆REQ10: O sistema deverá permitir ao usuário correto iniciar o jogo. //feito
+◆REQ11: O sistema deve permitir ao usuário pegar (“comprar”) uma peça //transformar peca pilha para j1 / j2
+◆REQ12: O sistema deve verificar se a jogada do jogador é válida (se a peça a ser colocada -
+tem a mesma pontuação das peças das extremidades da mesa) //jogar no mesa 
+
+Etapa 04 –Funções e Procedimentos (Lógica do Jogo e Interação com o Usuário)
+◆REQ13: O sistema deverá permitir ao usuário ver as suas peças na tela durante o jogo //fzr na etapa 3
+◆REQ14: O sistema deverá permitir ao usuário esconder as peças dos demais jogadores
+◆REQ15: O sistema deverá permitir ao usuário finalizar o jogo de dominó
+◆REQ16: O sistema deverá permitir ao usuário comprar peças durante o jogo //etapa 3
+◆REQ17: O sistema deverá permitir ao usuário visualizar as regras do jogo 
+
+Etapa 05 –Arquivos em C
+
+◆REQ18: O sistema deverá permitir ao usuário salvar o jogo em um arquivo a qualquer 
+momento, para poder continuar jogando numa outra ocasião. 
+◆REQ19: O sistema deverá permitir ao usuário carregar um jogo que foi salvo em arquivopara 
+prosseguir jogando.
+
+Etapa 06 –Computador Jogador
+
+◆REQ20: No caso de apenas um jogadorjogando contra o computador, o sistema deverá simular 
+o comportamento inteligente como umjogador real por meio da implementação das regras do jogo 
+no código em C. 
+
+gcc Main.c Model.c View.c Controller.c -o main.exe //compilador mostra erros
+./"main.exe"
