@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1660576053 source:f:\dropbox\2022\2osemestre\aulas\lp\20220801\eq2g\main.c
+	<stdio.h>
+	<stdlib.h>
+	"eq2g.h"
+	"eq2g.h"
+
+1660576183 f:\dropbox\2022\2osemestre\aulas\lp\20220801\eq2g\eq2g.h
+
+1660566632 source:f:\dropbox\2022\2osemestre\aulas\lp\20220801\eq2g\funcoes.c
+	<stdio.h>
+	<math.h>
+	"eq2g.h"
+	<stdio.h>
+	<math.h>
+	"eq2g.h"
+
+1660568397 source:f:\dropbox\2022\2osemestre\aulas\lp\20220801\eq2g\controler.c
+	<math.h>
+	"eq2g.h"
+
+1660568967 source:f:\dropbox\2022\2osemestre\aulas\lp\20220801\eq2g\view.c
+	<stdio.h>
+	"eq2g.h"
+
