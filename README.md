@@ -13,8 +13,6 @@ This repository is a personal collection of studies, exercises, and mini project
 - 👾 `Projeto_Alura_C_III_PacMan` – Basic Pac-Man logic simulation
 - 💳 `DesafioCreditCardCs50_Adaptado.c` – Adapted version of a credit card validation challenge from CS50
 
-> Folder names follow the original structure used during their development to preserve context.
-
 ---
 
 ## 🎯 Project Purpose
